@@ -1,8 +1,8 @@
 {
     "name": "OldSchool Search",
-    "version": "1.0",
+    "version": "0.0.1",
     "description": "Search highlighted text on the OSRS Wiki",
-    "permissions": ["activeTab", "declarativeContent", "storage", "contextMenus"],
+    "permissions": ["contextMenus"],
     "background": {
         "scripts": ["background.js"]        
     },
