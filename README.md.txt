@@ -1,0 +1,1 @@
+This Google Extension allows users to search for any highlighted text on the https://oldschool.runescape.wiki/ website
